@@ -1,0 +1,17 @@
+/*
+
+# code
+!common/
+!fabirc/
+!neoforge/
+
+# env
+!.github/
+!*gradle*
+.gradle/
+
+# files
+!.gitignore
+!LICENSE
+!README.md
+
